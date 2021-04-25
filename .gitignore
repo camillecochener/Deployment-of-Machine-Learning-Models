@@ -15,3 +15,7 @@ Section 4 - Production Code - Third Party Pipeline/.vscode
 Section 4 - Production Code - Third Party Pipeline/*.csv
 Section 4 - Production Code - Third Party Pipeline/*.pkl
 Section 4 - Production Code - Third Party Pipeline/*.npy
+
+# Section 13 - Deploying a CNN model
+Section 13 - Deploying a CNN model/data
+Section 13 - Deploying a CNN model/.ipynb_checkpoints
